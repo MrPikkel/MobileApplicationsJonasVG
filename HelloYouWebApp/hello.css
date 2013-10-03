@@ -1,0 +1,26 @@
+button#button{
+    background-color: gray;
+    width:50%;
+    height: 40px;;
+}
+
+div#plaatsing{
+    position:absolute;
+    top:15%;
+    left:25%;
+    text-align: center;
+    width:50%;
+}
+p {
+ font-size:125%
+}
+
+textarea{
+
+    width: 100%;
+}
+
+body{
+    background-color:lightblue;
+
+}
